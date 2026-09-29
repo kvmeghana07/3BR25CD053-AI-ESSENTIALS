@@ -1,8 +1,8 @@
 # 3BR25CD053-AI-ESSENTIALS
 
-^^^Edge-AI-Driven Adaptive Traffic Signal Optimization and Priority Emergency Vehicle Routing in Urban Networks
+^Edge-AI-Driven Adaptive Traffic Signal Optimization and Priority Emergency Vehicle Routing in Urban Networks
 
-^^^Personal Expense Tracking Assistant Day 2 Coding Assignment
+^Personal Expense Tracking Assistant Day 2 Coding Assignment
 
 ### 🚀 Live Project
 
