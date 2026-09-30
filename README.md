@@ -11,3 +11,5 @@
 ### 📄 Resume
 
 [View My Resume](https://github.com/kvmeghana07/3BR25CD053-AI-ESSENTIALS/blob/main/Resume-kv.pdf)
+# 🚀 Live Demo
+Click here to use the app: https://lucent-alfajores-424113.netlify.app/
