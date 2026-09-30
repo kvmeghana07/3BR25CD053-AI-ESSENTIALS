@@ -8,7 +8,7 @@
 ## 🚀 Live Projects
 
 * **[Interactive Portfolio Generator](https://lucent-alfajores-424113.netlify.app/)** — Web app for generating custom portfolio previews.
-* **[Day 2 Coding Assignment](./day2-coding-assigment.md)** — Personal Expense Tracking Assistant documentation.
+* **[Day 2 Coding Assignment](./day2-coding-assigment.md)** 
 
 ## 📄 Resume
 
