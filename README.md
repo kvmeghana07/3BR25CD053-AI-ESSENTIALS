@@ -1,15 +1,12 @@
 # 3BR25CD053-AI-ESSENTIALS
 
-^Edge-AI-Driven Adaptive Traffic Signal Optimization and Priority Emergency Vehicle Routing in Urban Networks
+* Edge-AI-Driven Adaptive Traffic Signal Optimization and Priority Emergency Vehicle Routing in Urban Networks
+* Personal Expense Tracking Assistant Day 2 Coding Assignment
 
-^Personal Expense Tracking Assistant Day 2 Coding Assignment
+## 🚀 Live Demo
 
-### 🚀 Live Project
+[Open Interactive Portfolio Generator](https://lucent-alfajores-424113.netlify.app/)
 
-[Open Project](https://v0.app/adityavarma0058-9636/chat/pzdbnVgbqlX#ujvq6GCgnjAr8GaKSLwYEaPUDeAptHSJ)
+## 📄 Resume
 
-### 📄 Resume
-
-[View My Resume](https://github.com/kvmeghana07/3BR25CD053-AI-ESSENTIALS/blob/main/Resume-kv.pdf)
-# 🚀 Live Demo
-Click here to use the app: https://lucent-alfajores-424113.netlify.app/
+[View My Resume](./Resume-kv.pdf)
