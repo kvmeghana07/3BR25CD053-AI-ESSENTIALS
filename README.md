@@ -6,7 +6,7 @@
 ## 🚀 Live Projects
 
 * **[Interactive Portfolio Generator](https://lucent-alfajores-424113.netlify.app/)** — Web app for generating custom portfolio previews.
-* **[Day 2 Coding Assignment](#)** — Open project link or files.
+* **[Day 2 Coding Assignment](#)** — Open project link.
 
 ## 📄 Resume
 
