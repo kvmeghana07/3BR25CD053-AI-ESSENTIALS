@@ -3,7 +3,7 @@
 ## 📚 Research Papers
 
 * **[Research Paper 1 (Edge-AI Traffic Optimization)](./3BR25CD053-RESEARCH%20PAPER.pdf)**
-* **[Research Paper 2](./2nd%20Research%20Paper.pdf)**
+* **[ExpenseTracker](./2nd%20Research%20Paper.pdf)**
 
 ## 🚀 Live Projects
 
@@ -13,4 +13,4 @@
 ## 📄 Resume
 
 * **[View My Resume](./Resume-kv.pdf)**
-*
+
